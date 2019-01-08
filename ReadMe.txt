@@ -1,0 +1,1 @@
+Replace pgmpy.estimators.base.py with base.py in this folder.
